@@ -25,14 +25,14 @@ IAM user creation for Amazon Bedrock - Credentials and access key
 
 Bedrock API - Boto3 - Python
 Steps:
-Create virtual environment
+1. Create virtual environment
 python3 -m venv .venv
-Activate virtual environment
+2. Activate virtual environment
 source .venv/bin/activate
-Install boto3 - Python SDK for AWS
-Create Requirements file
+3. Install boto3 - Python SDK for AWS
+4. Create Requirements file
 pip install -r requirements.txt
-Create sample boto3 bedrock call script
+5. Create sample boto3 bedrock call script
 
 Bedrock text models:
 Text model intro
